@@ -1,0 +1,1 @@
+docker run -it -v D:\school\research:/code -p 1234:1234 antspy

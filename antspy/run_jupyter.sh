@@ -1,0 +1,1 @@
+jupyter lab --port 1234 --ip 0.0.0.0 --no-browser --allow-root
